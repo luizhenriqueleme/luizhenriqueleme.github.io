@@ -1,28 +1,52 @@
-title: "Luiz Henrique Leme Site- Posts e videos techs, em português, diretos e simples você só encontra aqui!"
-url: 'http://luizhenriqueleme.github.io'
-author: Luiz Leme
-github: luizhenriqueleme
-email: developer.luizhenriqueleme@outlook.com
-description: 'Posts and tutorials about Java, Android, Hibernate, Spring, JavaScript, Angular,Web Development and others development stuffs LuizLeme'
- 
-category_title_prefix: ''
-category_dir: /
+locale: "en-US"
+title: Strata # Title of your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
 
-# Basic configuration
-permalink: /:year/:title/
-destination: ./_publish
-tag_dir: tag
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-# Use Pygments to highlight code blocks
-baseurl: '/'
-highlighter: pygments
-paginate: 10
-exclude: ['/node_modules', '/.gitignore', './config.ru', './Gemfile', './Gemfile.lock', './CNAME', '/gulpfile.js', '/package.json', '/README.md', '/src']
+# Author details for the jekyll-seo-tag gem
+author:
+  name: Your Name
+  email: your-email@domain.com
+  twitter: # twitter username without the @ symbol
 
-# Publish posts with future date.
-future: false
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Strata Reloaded Template
+  links:
+    - https://github.com/comfusion/strata-reloaded-jekyll-template
 
-# Compile posts in the _drafts directory.
-show_drafts: false
+permalink: pretty
 
-gems: ['jekyll-paginate']
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
