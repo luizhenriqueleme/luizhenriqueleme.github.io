@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Java 8 - Entendendo default methods"
+date:   2016-04-29
+categories: java
+tags: [java, java8]
+image: 
+keywords:
+related:
+  - title: Excelente post no blog da Caelum sobre Java 8 
+    url: http://blog.caelum.com.br/o-minimo-que-voce-deve-saber-de-java-8/
+  - title: Apresentação sobre Java 8 por Paulo Silveira no Conexão Java 2014
+    url: https://www.youtube.com/watch?v=UZaKFZHrnag
+resumo: >
+   Entenda quais são as novidades do Java 8. 
+---
+
+##Default Methods
+
+Por exemplo, foi adicionado o método concreto "sort" a interface List
+	
+	default void sort(Comparator<? super E> c) {
+	    Collections.sort(this, c);
+	}
+
+Outros métodos foram adicionados a 
+
+API Collection:
+	removeIf
+	spliterator
+	stream
+	parallelStream
+
+List
+	replaceAll
+	sort
+	spliterator (override de Collection)
+
+Map
+	getOrDefault
+	forEach
+	replaceAll
+	putIfAbsent
+	remove
+	replace (2 versões)
+	computeIfAbsent
+	computeIfPresent
+	compute
+	merge
+
+Set
+	spliterator (override)
+
+Comparator
+	métodos novos?
+
+
