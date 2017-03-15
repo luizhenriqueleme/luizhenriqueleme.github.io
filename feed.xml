@@ -9,7 +9,7 @@
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://luizhenriqueleme.github.com/</id>
   <author>
-    <name>Suelen GC</name>
+    <name>Luiz Leme</name>
     <email>developer.luizhenriqueleme@outlook.com</email>
   </author>
 
@@ -21,7 +21,7 @@
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Suelen GC</name>
+      <name>Luiz Leme</name>
       <uri>http://luizhenriqueleme.github.com/</uri>
     </author>
     <content type="html">{{ post.resumo | xml_escape }}</content>

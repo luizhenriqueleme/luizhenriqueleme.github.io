@@ -1,6 +1,6 @@
 /* TEAM */
 
-Developer & Designer: Suelen GC
+Developer & Designer: Luiz Leme
 Site: http://luizhenriqueleme.github.io, https://github.com/luizhenriqueleme
 Twitter: @luizhenriqueleme
 Location: Brazil
