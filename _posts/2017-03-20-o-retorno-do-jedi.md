@@ -5,8 +5,6 @@ date: 2017-03-20
 categories: [blog, luizleme]
 tags: [luizleme, blog, autor]
 image: assets/img/posts/retorno-de-jedi.jpg
-keywords:
-related:
 resumo: >
     Há muito tempo numa galáxia muito muito distante, existiu um Cavaleiro Jedi que repentinamente desapareceu, agora ele está de volta para reassumir seu locar em sua comunidade.
 ---
