@@ -1,0 +1,23 @@
+{% if page.title %}
+    {% capture title %}{{ page.title | strip_html }} – Luiz Leme{% endcapture %}
+{% else %}
+    {% capture title %}{{site.title}}{% endcapture %}
+{% endif %}
+
+{% if page.resumo %}
+    {% capture description %}{{ page.resumo }}{% endcapture %}
+{% else %}
+    {% capture description %}{{site.description}}{% endcapture %}
+{% endif %}
+
+{% if page.image %}
+    {% capture image %}{{ site.url }}/{{ page.image }}{% endcapture %}
+{% else %}
+    {% capture image %}{% endcapture %}
+{% endif %}
+
+{%if page.date %}
+  {% capture pageType %} article {% endcapture %}
+{% else %}
+  {% capture pageType %} website {% endcapture %}
+{% endif %}

@@ -1,91 +1,16 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<!--[if IEMobile 7 ]><html lang="pt-BR" class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html lang="pt-BR" class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="pt-BR" dir="ltr" class="no-js"><!--<![endif]-->
-<head>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage" {% if page.main-class %}class="post-{{ page.main-class }}"{% endif %}>
     {% include head.html %}
-    <meta charset="utf-8">
-    <!--[if lt IE 9]>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <script src="js/vendor/html5shiv.js"></script>
-    <![endif]-->
-    <title>{{ title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-
-    <!-- Behavioral Meta Data -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-
-    <!-- Core Meta Data -->
-    <meta name="author" content="{{ site.author }}">
-    <meta name="description" content="{{ description }}">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <!-- <link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/rafaell-lycan" title="Rafaell Lycan RSS Feed"> -->
-
-    <!-- Google webmaster tools verification code -->
-    <meta name="google-site-verification" content="x08xUXYXTQWjHPyl9M_w5VIF07UWLSi0XUTxxCSS7rQ" />
-
-    <!-- Open Graph Meta Data -->
-    <meta property="og:locale" content="pt_BR">
-    <meta property="og:type" content="{{ pageType }}">
-    <meta property="og:title" content="{{ title }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ image }}">
-    <meta property="og:description" content="{{ description }}">
-    <meta property="og:site_name" content="{{site.title}}">
-    
-    <!-- Twitter Cards -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta name="twitter:title" content="{{ title }}">
-    <meta name="twitter:image" content="{{ image }}">
-    <meta name="twitter:description" content="{{ description }}">
-    <meta name="twitter:creator" content="@{{site.twitter}}">
-    <meta property="twitter:account_id" content="22445413">
-
-    <!-- Syntax highlighting CSS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,700|Ubuntu:400,400italic">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css" media="all">
-
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Stalemate">
-</head>
-<body>
-    <div class="container">
-        <aside class="sidebar">
-            <header>
-                <font>
-                    <h1><a href="/">Hi, I'm <strong><span class="logo-name"> Luiz Leme</span></strong></a></h1>
-                    <h6 style="color: #fff; line-height: 15px;">Researcher, Agile Enthusiast, </br> Web Full Stack Developer, Mobile Developer</h6>
-                </font>
-                <nav class="menu">
-                    <ul>
-                        <li><a href="/">read<strong> Blog</strong></a></li>
-                        <li><a href="/presentations">view <strong>Presentations</strong></a></li>
-                        <li><a href="/researches">my <strong>Researches</strong></a></li>
-                        <li><a href="/about">about <strong>Me</strong></a></li>
-                    </ul>
-                </nav>
-            </header>
-            <footer>
-                <a href="https://github.com/luizhenriqueleme" target="_blank" title="GitHub"> <img src="/assets/img/icon-github.png" class="social_icons" /></a>  
-                <a href="https://www.linkedin.com/in/luizleme" target="_blank" title="Linkedin"><img src="/assets/img/icon-linkedin.png" class="social_icons" /></a>                      
-            </footer>
-        </aside>
-
-        <main class="main">
-            <div class="container">
-                {{content}}
-            </div>
-            <footer id="footer">
-              <p class="credit">Copyright © 2017 - {{ site.author }}</p>
-            </footer>
-        </main>
-    </div>
-    <!-- Google Analytics verification code -->
-    {% include analytics.html %}
-    
-    <script async src="/assets/js/main.min.js"></script>
-</body>
+    <body>
+        {% include svg-icons.html %}
+        {% include header-default.html %}
+            <section class="content">
+                {{ content }}
+            </section>
+        {% include footer.html %}
+    </body>
 </html>
