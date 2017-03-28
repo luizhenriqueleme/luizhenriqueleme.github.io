@@ -1,8 +1,8 @@
 # Site settings
 title: Luiz H Leme - Desenvolvedor Web Full Stack
 description: Um blog de um desenvolvedor Web Full Stack, Pesquisador e entusiasta de novas tecnologias.
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'http://luizhenriqueleme.github.io' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://luizhleme.com.br"
 
 # User settings
 username: Luiz H Leme
