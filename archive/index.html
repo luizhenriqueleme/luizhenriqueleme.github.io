@@ -1,0 +1,32 @@
+---
+layout: default
+title: Blog Archive
+---
+<section class="standard">
+  <header>
+    <h1>Blog Archive</h1>
+  </header>
+
+  <div class="blog-archives">
+    {% for post in site.posts %}
+      {% unless post.next %}
+        <h2>{{ post.date | date: '%Y' }}</h2>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h2>{{ post.date | date: '%Y' }}</h2>
+        {% endif %}
+      {% endunless %}
+      <article>
+        <header>
+          <time datetime="{{ post.date | date_to_xmlschema }}" >
+            {{ post.date | date: '%-d %B'}} •
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </time>
+          <p><small>{{ post.resumo }}</small></p>
+        </header>      
+      </article>
+    {% endfor %}
+  </div>
+</section>

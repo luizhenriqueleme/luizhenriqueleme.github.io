@@ -1,19 +1,44 @@
-<!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/BlogPosting" {% if page.main-class %}class="post-{{ page.main-class }}"{% endif %}>
-    {% include head.html %}
-    <body>
-        {% include svg-icons.html %}
-        {% include header-post.html %}
-        <section class="post">
+---
+layout: default
+post: true
+---
 
-            <article role="article" id="post" class="post-content" itemprop="articleBody">
-                {{ content }}
-            </article>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <h1 itemprop="headline">{{ page.title }}</h1>
+    {% if page.image %}
+      <figure>
+        <img src="/{{ page.image }}" alt="{{page.title}}" style="max-width: 60%; margin: 0 auto;" title="{{page.title}}" itemprop="thumbnailUrl">
+        <figcaption>{{ image }}</figcaption>
+      </figure>
+    {% endif %}
 
-            {% include share.html %}
-            {% include author.html %}
-            {% include comments.html %}
-            {% include footer.html %}
-        </section>
-    </body>
-</html>
+    {% include meta.html %}
+    
+    <p>{{ page.resumo }}</p>
+    
+    <span class="keywords hidden" itemprop="keywords">
+      {{page.keywords}}
+    </span>
+    
+  </header>
+  {{ content }}
+
+  {% if page.related %}
+  <section class="fonte">
+    <h3>Referências</h3>
+    <ul>
+      {% for rel in page.related %}
+      <li itemprop="mentions" itemscope itemtype="http://schema.org/Thing">
+        <a itemprop="url" href="{{ rel.url }}" title="{{ rel.title }}" target="_blank">
+          <span itemprop="name">{{ rel.title }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</article>
+
+<!-- Google Analytics verification code -->
+{% include analytics.html %}

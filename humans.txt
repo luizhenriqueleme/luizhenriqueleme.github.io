@@ -1,0 +1,13 @@
+/* TEAM */
+
+Developer & Designer: Luiz Leme
+Site: http://luizhenriqueleme.github.io, https://github.com/luizhenriqueleme
+Twitter: @luizhenriqueleme
+Location: Brazil
+
+/* SITE */
+
+Last Update: 2016/04/6
+Standards: HTML5, CSS3
+Components: jQuery, Less
+Software: Sublime Text 2, CodeKit

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1282px" height="668px" viewBox="0 0 1282 668" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>bg-triangles-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="bg-triangles-black" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)" stroke="#511D6F" fill="#49274F">
+            <path d="M1216,0 L1280,0 L1216,37 L1216,0 L1216,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M64,0 L0,0 L64,37 L64,0 L64,0 Z M64,0 L128,0 L64,37 L64,0 L64,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,0 L128,0 L192,37 L192,0 L192,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1280.086,0 L1216.086,37 L1280.086,74 L1280.086,0 L1280.086,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M0,0 L64,37 L0,74 L0,0 L0,0 Z M128,0 L64,37 L128,74 L128,0 L128,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M128,0 L192,37 L128,74 L128,0 L128,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,0 L192.086,37 L256.086,74 L256.086,0 L256.086,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M192,0 L256,0 L192,37 L192,0 L192,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M320.086,0 L256.086,0 L320.086,37 L320.086,0 L320.086,0 Z M320,0 L384,0 L320,37 L320,0 L320,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M448,0 L384,0 L448,37 L448,0 L448,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,0 L512,0 L448,37 L448,0 L448,0 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M576.085,0 L512.085,0 L576.085,37 L576.085,0 L576.085,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,0 L640,0 L576,37 L576,0 L576,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M704,0 L640,0 L704,37 L704,0 L704,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M704,0 L768,0 L704,37 L704,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M832.086,0 L768.086,0 L832.086,37 L832.086,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M832,0 L896,0 L832,37 L832,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M960,0 L896,0 L960,37 L960,0 L960,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960,0 L1024,0 L960,37 L960,0 L960,0 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M1088.086,0 L1024.086,0 L1088.086,37 L1088.086,0 L1088.086,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,0 L1152,0 L1088,37 L1088,0 L1088,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1216.086,0 L1152.086,0 L1216.086,37 L1216.086,0 L1216.086,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M256,0 L320,37 L256,74 L256,0 L256,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384,0 L320,37 L384,74 L384,0 L384,0 Z M384,0 L448,37 L384,74 L384,0 L384,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M512.085,0 L448.085,37 L512.085,74 L512.085,0 L512.085,0 Z" id="Shape" opacity="0.85" sketch:type="MSShapeGroup"></path>
+            <path d="M512,0 L576,37 L512,74 L512,0 L512,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M640,0 L576,37 L640,74 L640,0 L640,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M640,0 L704,37 L640,74 L640,0 L640,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,0 L704.086,37 L768.086,74 L768.086,0 L768.086,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M768,0 L832,37 L768,74 L768,0 L768,0 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M896,0 L832,37 L896,74 L896,0 L896,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M896,0 L960,37 L896,74 L896,0 L896,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1024.086,0 L960.086,37 L1024.086,74 L1024.086,0 L1024.086,0 Z M1024,0 L1088,37 L1024,74 L1024,0 L1024,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,0 L1088,37 L1152,74 L1152,0 L1152,0 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,0 L1216,37 L1152,74 L1152,0 L1152,0 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,37 L1280,74 L1216,111 L1216,37 L1216,37 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M64,37 L0,74 L64,111 L64,37 L64,37 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M64.086,37 L128.086,74 L64.086,111 L64.086,37 L64.086,37 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,37 L128,74 L192,111 L192,37 L192,37 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,74 L1216,111 L1280,148 L1280,74 L1280,74 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M0,74 L64,111 L0,148 L0,74 L0,74 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M128,74 L64,111 L128,148 L128,74 L128,74 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M128,74 L192,111 L128,148 L128,74 L128,74 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M256,74 L192,111 L256,148 L256,74 L256,74 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M192,37 L256,74 L192,111 L192,37 L192,37 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320,37 L256,74 L320,111 L320,37 L320,37 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M320,37 L384,74 L320,111 L320,37 L320,37 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M448.086,37 L384.086,74 L448.086,111 L448.086,37 L448.086,37 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M448,37 L512,74 L448,111 L448,37 L448,37 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M576,37 L512,74 L576,111 L576,37 L576,37 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,37 L640,74 L576,111 L576,37 L576,37 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M704.086,37 L640.086,74 L704.086,111 L704.086,37 L704.086,37 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M704,37 L768,74 L704,111 L704,37 L704,37 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M832,37 L768,74 L832,111 L832,37 L832,37 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M832,37 L896,74 L832,111 L832,37 L832,37 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960.086,37 L896.086,74 L960.086,111 L960.086,37 L960.086,37 Z M960,37 L1024,74 L960,111 L960,37 L960,37 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,37 L1024,74 L1088,111 L1088,37 L1088,37 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,37 L1152,74 L1088,111 L1088,37 L1088,37 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M1216.086,37 L1152.086,74 L1216.086,111 L1216.086,37 L1216.086,37 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,74 L320.086,111 L256.086,148 L256.086,74 L256.086,74 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M384,74 L320,111 L384,148 L384,74 L384,74 Z M384,74 L448,111 L384,148 L384,74 L384,74 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M512,74 L448,111 L512,148 L512,74 L512,74 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M512.085,74 L576.085,111 L512.085,148 L512.085,74 L512.085,74 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,74 L576,111 L640,148 L640,74 L640,74 Z M640,74 L704,111 L640,148 L640,74 L640,74 Z M768,74 L704,111 L768,148 L768,74 L768,74 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,74 L832.086,111 L768.086,148 L768.086,74 L768.086,74 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M896,74 L832,111 L896,148 L896,74 L896,74 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M896,74 L960,111 L896,148 L896,74 L896,74 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1024.086,74 L960.086,111 L1024.086,148 L1024.086,74 L1024.086,74 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,74 L1088,111 L1024,148 L1024,74 L1024,74 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1152.086,74 L1088.086,111 L1152.086,148 L1152.086,74 L1152.086,74 Z" id="Shape" opacity="0.8" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,74 L1216,111 L1152,148 L1152,74 L1152,74 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,111 L1280,148 L1216,185 L1216,111 L1216,111 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M64,111 L0,148 L64,185 L64,111 L64,111 Z M64.086,111 L128.086,148 L64.086,185 L64.086,111 L64.086,111 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192.086,111 L128.086,148 L192.086,185 L192.086,111 L192.086,111 Z M1280.086,148 L1216.086,185 L1280.086,222 L1280.086,148 L1280.086,148 Z M0,148 L64,185 L0,222 L0,148 L0,148 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M128,148 L64,185 L128,222 L128,148 L128,148 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M128,148 L192,185 L128,222 L128,148 L128,148 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,148 L192.086,185 L256.086,222 L256.086,148 L256.086,148 Z M192,111 L256,148 L192,185 L192,111 L192,111 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M320,111 L256,148 L320,185 L320,111 L320,111 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320,111 L384,148 L320,185 L320,111 L320,111 Z M448.086,111 L384.086,148 L448.086,185 L448.086,111 L448.086,111 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,111 L512,148 L448,185 L448,111 L448,111 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M576,111 L512,148 L576,185 L576,111 L576,111 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,111 L640,148 L576,185 L576,111 L576,111 Z M704.086,111 L640.086,148 L704.086,185 L704.086,111 L704.086,111 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M704,111 L768,148 L704,185 L704,111 L704,111 Z M832,111 L768,148 L832,185 L832,111 L832,111 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M832,111 L896,148 L832,185 L832,111 L832,111 Z M960,111 L896,148 L960,185 L960,111 L960,111 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M960,111 L1024,148 L960,185 L960,111 L960,111 Z M1088,111 L1024,148 L1088,185 L1088,111 L1088,111 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,111 L1152,148 L1088,185 L1088,111 L1088,111 Z M1216.086,111 L1152.086,148 L1216.086,185 L1216.086,111 L1216.086,111 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M256,148 L320,185 L256,222 L256,148 L256,148 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M384,148 L320,185 L384,222 L384,148 L384,148 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M384,148 L448,185 L384,222 L384,148 L384,148 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M512.085,148 L448.085,185 L512.085,222 L512.085,148 L512.085,148 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M512,148 L576,185 L512,222 L512,148 L512,148 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,148 L576,185 L640,222 L640,148 L640,148 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M640,148 L704,185 L640,222 L640,148 L640,148 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768,148 L704,185 L768,222 L768,148 L768,148 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,148 L832.086,185 L768.086,222 L768.086,148 L768.086,148 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M896,148 L832,185 L896,222 L896,148 L896,148 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M896,148 L960,185 L896,222 L896,148 L896,148 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024.086,148 L960.086,185 L1024.086,222 L1024.086,148 L1024.086,148 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,148 L1088,185 L1024,222 L1024,148 L1024,148 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,148 L1088,185 L1152,222 L1152,148 L1152,148 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,148 L1216,185 L1152,222 L1152,148 L1152,148 Z" id="Shape" opacity="0.85" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,185 L1280,222 L1216,259 L1216,185 L1216,185 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M64.086,185 L0.086,222 L64.086,259 L64.086,185 L64.086,185 Z M64,185 L128,222 L64,259 L64,185 L64,185 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M192.086,185 L128.086,222 L192.086,259 L192.086,185 L192.086,185 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,222 L1216,259 L1280,296 L1280,222 L1280,222 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M0,222 L64,259 L0,296 L0,222 L0,222 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M128.086,222 L64.086,259 L128.086,296 L128.086,222 L128.086,222 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M128,222 L192,259 L128,296 L128,222 L128,222 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M256,222 L192,259 L256,296 L256,222 L256,222 Z M192,185 L256,222 L192,259 L192,185 L192,185 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320,185 L256,222 L320,259 L320,185 L320,185 Z M320,185 L384,222 L320,259 L320,185 L320,185 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M448,185 L384,222 L448,259 L448,185 L448,185 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M448,185 L512,222 L448,259 L448,185 L448,185 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M576,185 L512,222 L576,259 L576,185 L576,185 Z M576.085,185 L640.085,222 L576.085,259 L576.085,185 L576.085,185 Z M704,185 L640,222 L704,259 L704,185 L704,185 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M704,185 L768,222 L704,259 L704,185 L704,185 Z" id="Shape" opacity="0.85" sketch:type="MSShapeGroup"></path>
+            <path d="M832,185 L768,222 L832,259 L832,185 L832,185 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M832.086,185 L896.086,222 L832.086,259 L832.086,185 L832.086,185 Z M960,185 L896,222 L960,259 L960,185 L960,185 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M960.086,185 L1024.086,222 L960.086,259 L960.086,185 L960.086,185 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,185 L1024,222 L1088,259 L1088,185 L1088,185 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,185 L1152,222 L1088,259 L1088,185 L1088,185 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,185 L1152,222 L1216,259 L1216,185 L1216,185 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,222 L320.086,259 L256.086,296 L256.086,222 L256.086,222 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384,222 L320,259 L384,296 L384,222 L384,222 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M384,222 L448,259 L384,296 L384,222 L384,222 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M512.085,222 L448.085,259 L512.085,296 L512.085,222 L512.085,222 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M512,222 L576,259 L512,296 L512,222 L512,222 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M640,222 L576,259 L640,296 L640,222 L640,222 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,222 L704,259 L640,296 L640,222 L640,222 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,222 L704.086,259 L768.086,296 L768.086,222 L768.086,222 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M768,222 L832,259 L768,296 L768,222 L768,222 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M896,222 L832,259 L896,296 L896,222 L896,222 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M896,222 L960,259 L896,296 L896,222 L896,222 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,222 L960,259 L1024,296 L1024,222 L1024,222 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,222 L1088,259 L1024,296 L1024,222 L1024,222 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,222 L1088,259 L1152,296 L1152,222 L1152,222 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1152.086,222 L1216.086,259 L1152.086,296 L1152.086,222 L1152.086,222 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1216.086,259 L1280.086,296 L1216.086,333 L1216.086,259 L1216.086,259 Z M64,259 L0,296 L64,333 L64,259 L64,259 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M64,259 L128,296 L64,333 L64,259 L64,259 Z M192,259 L128,296 L192,333 L192,259 L192,259 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,296 L1216,333 L1280,370 L1280,296 L1280,296 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M0,296 L64,333 L0,370 L0,296 L0,296 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M128,296 L64,333 L128,370 L128,296 L128,296 Z" id="Shape" opacity="0.8" sketch:type="MSShapeGroup"></path>
+            <path d="M128.086,296 L192.086,333 L128.086,370 L128.086,296 L128.086,296 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,296 L192.086,333 L256.086,370 L256.086,296 L256.086,296 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M192,259 L256,296 L192,333 L192,259 L192,259 Z M320,259 L256,296 L320,333 L320,259 L320,259 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M320.086,259 L384.086,296 L320.086,333 L320.086,259 L320.086,259 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,259 L384,296 L448,333 L448,259 L448,259 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M448,259 L512,296 L448,333 L448,259 L448,259 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M576.085,259 L512.085,296 L576.085,333 L576.085,259 L576.085,259 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M576,259 L640,296 L576,333 L576,259 L576,259 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M704,259 L640,296 L704,333 L704,259 L704,259 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M704,259 L768,296 L704,333 L704,259 L704,259 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M832.086,259 L768.086,296 L832.086,333 L832.086,259 L832.086,259 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M832,259 L896,296 L832,333 L832,259 L832,259 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M960,259 L896,296 L960,333 L960,259 L960,259 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M960,259 L1024,296 L960,333 L960,259 L960,259 Z M1088.086,259 L1024.086,296 L1088.086,333 L1088.086,259 L1088.086,259 Z M1088,259 L1152,296 L1088,333 L1088,259 L1088,259 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,259 L1152,296 L1216,333 L1216,259 L1216,259 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256,296 L320,333 L256,370 L256,296 L256,296 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384,296 L320,333 L384,370 L384,296 L384,296 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M384.086,296 L448.086,333 L384.086,370 L384.086,296 L384.086,296 Z M512,296 L448,333 L512,370 L512,296 L512,296 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M512,296 L576,333 L512,370 L512,296 L512,296 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M640,296 L576,333 L640,370 L640,296 L640,296 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,296 L704,333 L640,370 L640,296 L640,296 Z M768.086,296 L704.086,333 L768.086,370 L768.086,296 L768.086,296 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M768,296 L832,333 L768,370 L768,296 L768,296 Z M896,296 L832,333 L896,370 L896,296 L896,296 Z M896,296 L960,333 L896,370 L896,296 L896,296 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024.086,296 L960.086,333 L1024.086,370 L1024.086,296 L1024.086,296 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,296 L1088,333 L1024,370 L1024,296 L1024,296 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,296 L1088,333 L1152,370 L1152,296 L1152,296 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,296 L1216,333 L1152,370 L1152,296 L1152,296 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,333 L1280,370 L1216,407 L1216,333 L1216,333 Z M64.086,333 L0.086,370 L64.086,407 L64.086,333 L64.086,333 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M64,333 L128,370 L64,407 L64,333 L64,333 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M192,333 L128,370 L192,407 L192,333 L192,333 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,370 L1216,407 L1280,444 L1280,370 L1280,370 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M0,370 L64,407 L0,444 L0,370 L0,370 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M128,370 L64,407 L128,444 L128,370 L128,370 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M128.086,370 L192.086,407 L128.086,444 L128.086,370 L128.086,370 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M256,370 L192,407 L256,444 L256,370 L256,370 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,333 L256,370 L192,407 L192,333 L192,333 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320.086,333 L256.086,370 L320.086,407 L320.086,333 L320.086,333 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M320,333 L384,370 L320,407 L320,333 L320,333 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M448,333 L384,370 L448,407 L448,333 L448,333 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M448,333 L512,370 L448,407 L448,333 L448,333 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,333 L512,370 L576,407 L576,333 L576,333 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M576.085,333 L640.085,370 L576.085,407 L576.085,333 L576.085,333 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M704,333 L640,370 L704,407 L704,333 L704,333 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M704,333 L768,370 L704,407 L704,333 L704,333 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M832,333 L768,370 L832,407 L832,333 L832,333 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M832,333 L896,370 L832,407 L832,333 L832,333 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M960.086,333 L896.086,370 L960.086,407 L960.086,333 L960.086,333 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960,333 L1024,370 L960,407 L960,333 L960,333 Z M1088,333 L1024,370 L1088,407 L1088,333 L1088,333 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1088.086,333 L1152.086,370 L1088.086,407 L1088.086,333 L1088.086,333 Z M1216,333 L1152,370 L1216,407 L1216,333 L1216,333 Z M256,370 L320,407 L256,444 L256,370 L256,370 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M384,370 L320,407 L384,444 L384,370 L384,370 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384.086,370 L448.086,407 L384.086,444 L384.086,370 L384.086,370 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M512,370 L448,407 L512,444 L512,370 L512,370 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M512,370 L576,407 L512,444 L512,370 L512,370 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M640,370 L576,407 L640,444 L640,370 L640,370 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M640.086,370 L704.086,407 L640.086,444 L640.086,370 L640.086,370 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768,370 L704,407 L768,444 L768,370 L768,370 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,370 L832.086,407 L768.086,444 L768.086,370 L768.086,370 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M896,370 L832,407 L896,444 L896,370 L896,370 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M896,370 L960,407 L896,444 L896,370 L896,370 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,370 L960,407 L1024,444 L1024,370 L1024,370 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1024.086,370 L1088.086,407 L1024.086,444 L1024.086,370 L1024.086,370 Z M1152,370 L1088,407 L1152,444 L1152,370 L1152,370 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,370 L1216,407 L1152,444 L1152,370 L1152,370 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,407 L1280,444 L1216,481 L1216,407 L1216,407 Z M64,407 L0,444 L64,481 L64,407 L64,407 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M64,407 L128,444 L64,481 L64,407 L64,407 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,407 L128,444 L192,481 L192,407 L192,407 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,444 L1216,481 L1280,518 L1280,444 L1280,444 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M0,444 L64,481 L0,518 L0,444 L0,444 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M128,444 L64,481 L128,518 L128,444 L128,444 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M128,444 L192,481 L128,518 L128,444 L128,444 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256.086,444 L192.086,481 L256.086,518 L256.086,444 L256.086,444 Z M192,407 L256,444 L192,481 L192,407 L192,407 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M320,407 L256,444 L320,481 L320,407 L320,407 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320,407 L384,444 L320,481 L320,407 L320,407 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M448,407 L384,444 L448,481 L448,407 L448,407 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448.086,407 L512.086,444 L448.086,481 L448.086,407 L448.086,407 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M576,407 L512,444 L576,481 L576,407 L576,407 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M576,407 L640,444 L576,481 L576,407 L576,407 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M704.086,407 L640.086,444 L704.086,481 L704.086,407 L704.086,407 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M704,407 L768,444 L704,481 L704,407 L704,407 Z M832,407 L768,444 L832,481 L832,407 L832,407 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M832.086,407 L896.086,444 L832.086,481 L832.086,407 L832.086,407 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M960,407 L896,444 L960,481 L960,407 L960,407 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960.086,407 L1024.086,444 L960.086,481 L960.086,407 L960.086,407 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,407 L1024,444 L1088,481 L1088,407 L1088,407 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1088.086,407 L1152.086,444 L1088.086,481 L1088.086,407 L1088.086,407 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,407 L1152,444 L1216,481 L1216,407 L1216,407 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M256,444 L320,481 L256,518 L256,444 L256,444 Z M384,444 L320,481 L384,518 L384,444 L384,444 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M384,444 L448,481 L384,518 L384,444 L384,444 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M512,444 L448,481 L512,518 L512,444 L512,444 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M512.085,444 L576.085,481 L512.085,518 L512.085,444 L512.085,444 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,444 L576,481 L640,518 L640,444 L640,444 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M640,444 L704,481 L640,518 L640,444 L640,444 Z" id="Shape" opacity="0.85" sketch:type="MSShapeGroup"></path>
+            <path d="M768,444 L704,481 L768,518 L768,444 L768,444 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M768.086,444 L832.086,481 L768.086,518 L768.086,444 L768.086,444 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M896,444 L832,481 L896,518 L896,444 L896,444 Z M896,444 L960,481 L896,518 L896,444 L896,444 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,444 L960,481 L1024,518 L1024,444 L1024,444 Z M1024.086,444 L1088.086,481 L1024.086,518 L1024.086,444 L1024.086,444 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,444 L1088,481 L1152,518 L1152,444 L1152,444 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1152.086,444 L1216.086,481 L1152.086,518 L1152.086,444 L1152.086,444 Z M1216,481 L1280,518 L1216,555 L1216,481 L1216,481 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M64,481 L0,518 L64,555 L64,481 L64,481 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M64.086,481 L128.086,518 L64.086,555 L64.086,481 L64.086,481 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,481 L128,518 L192,555 L192,481 L192,481 Z M1280,518 L1216,555 L1280,592 L1280,518 L1280,518 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M0,518 L64,555 L0,592 L0,518 L0,518 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M128,518 L64,555 L128,592 L128,518 L128,518 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M128,518 L192,555 L128,592 L128,518 L128,518 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256,518 L192,555 L256,592 L256,518 L256,518 Z M192,481 L256,518 L192,555 L192,481 L192,481 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M320,481 L256,518 L320,555 L320,481 L320,481 Z M320.086,481 L384.086,518 L320.086,555 L320.086,481 L320.086,481 Z M448,481 L384,518 L448,555 L448,481 L448,481 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,481 L512,518 L448,555 L448,481 L448,481 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M576,481 L512,518 L576,555 L576,481 L576,481 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M576.085,481 L640.085,518 L576.085,555 L576.085,481 L576.085,481 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M704,481 L640,518 L704,555 L704,481 L704,481 Z" id="Shape" opacity="0.8" sketch:type="MSShapeGroup"></path>
+            <path d="M704,481 L768,518 L704,555 L704,481 L704,481 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M832,481 L768,518 L832,555 L832,481 L832,481 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M832,481 L896,518 L832,555 L832,481 L832,481 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M960.086,481 L896.086,518 L960.086,555 L960.086,481 L960.086,481 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M960,481 L1024,518 L960,555 L960,481 L960,481 Z M1088,481 L1024,518 L1088,555 L1088,481 L1088,481 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,481 L1152,518 L1088,555 L1088,481 L1088,481 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,481 L1152,518 L1216,555 L1216,481 L1216,481 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M256,518 L320,555 L256,592 L256,518 L256,518 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M384,518 L320,555 L384,592 L384,518 L384,518 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384,518 L448,555 L384,592 L384,518 L384,518 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M512,518 L448,555 L512,592 L512,518 L512,518 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M512,518 L576,555 L512,592 L512,518 L512,518 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,518 L576,555 L640,592 L640,518 L640,518 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M640,518 L704,555 L640,592 L640,518 L640,518 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M768,518 L704,555 L768,592 L768,518 L768,518 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768,518 L832,555 L768,592 L768,518 L768,518 Z M896,518 L832,555 L896,592 L896,518 L896,518 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M896,518 L960,555 L896,592 L896,518 L896,518 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,518 L960,555 L1024,592 L1024,518 L1024,518 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,518 L1088,555 L1024,592 L1024,518 L1024,518 Z M1152,518 L1088,555 L1152,592 L1152,518 L1152,518 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,518 L1216,555 L1152,592 L1152,518 L1152,518 Z M1216,555 L1280,592 L1216,629 L1216,555 L1216,555 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M64,555 L0,592 L64,629 L64,555 L64,555 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M64,555 L128,592 L64,629 L64,555 L64,555 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M192,555 L128,592 L192,629 L192,555 L192,555 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,592 L1216,629 L1280,666 L1280,592 L1280,592 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M0,592 L64,629 L0,666 L0,592 L0,592 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M128,592 L64,629 L128,666 L128,592 L128,592 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M128,592 L192,629 L128,666 L128,592 L128,592 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256,592 L192,629 L256,666 L256,592 L256,592 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M192,555 L256,592 L192,629 L192,555 L192,555 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M320,555 L256,592 L320,629 L320,555 L320,555 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M320,555 L384,592 L320,629 L320,555 L320,555 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M448,555 L384,592 L448,629 L448,555 L448,555 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,555 L512,592 L448,629 L448,555 L448,555 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,555 L512,592 L576,629 L576,555 L576,555 Z M576,555 L640,592 L576,629 L576,555 L576,555 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M704,555 L640,592 L704,629 L704,555 L704,555 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M704,555 L768,592 L704,629 L704,555 L704,555 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M832,555 L768,592 L832,629 L832,555 L832,555 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M832,555 L896,592 L832,629 L832,555 L832,555 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960,555 L896,592 L960,629 L960,555 L960,555 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M960,555 L1024,592 L960,629 L960,555 L960,555 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,555 L1024,592 L1088,629 L1088,555 L1088,555 Z" id="Shape" opacity="0.8" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,555 L1152,592 L1088,629 L1088,555 L1088,555 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,555 L1152,592 L1216,629 L1216,555 L1216,555 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M256,592 L320,629 L256,666 L256,592 L256,592 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M384,592 L320,629 L384,666 L384,592 L384,592 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M384,592 L448,629 L384,666 L384,592 L384,592 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M512,592 L448,629 L512,666 L512,592 L512,592 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M512,592 L576,629 L512,666 L512,592 L512,592 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M640,592 L576,629 L640,666 L640,592 L640,592 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M640,592 L704,629 L640,666 L640,592 L640,592 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M768,592 L704,629 L768,666 L768,592 L768,592 Z M768,592 L832,629 L768,666 L768,592 L768,592 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M896,592 L832,629 L896,666 L896,592 L896,592 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M896,592 L960,629 L896,666 L896,592 L896,592 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,592 L960,629 L1024,666 L1024,592 L1024,592 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1024,592 L1088,629 L1024,666 L1024,592 L1024,592 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,592 L1088,629 L1152,666 L1152,592 L1152,592 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1152,592 L1216,629 L1152,666 L1152,592 L1152,592 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,629 L1280,666 L1216,666 L1216,629 L1216,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M64,629 L0,666 L64,666 L64,629 L64,629 Z M64,629 L128,666 L64,666 L64,629 L64,629 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M192,629 L128,666 L192,666 L192,629 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M192,629 L256,666 L192,666 L192,629 L192,629 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M320,629 L256,666 L320,666 L320,629 Z M320,629 L384,666 L320,666 L320,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M448,629 L384,666 L448,666 L448,629 L448,629 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M448,629 L512,666 L448,666 L448,629 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M576,629 L512,666 L576,666 L576,629 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M576,629 L640,666 L576,666 L576,629 L576,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M704,629 L640,666 L704,666 L704,629 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M704,629 L768,666 L704,666 L704,629 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M832,629 L768,666 L832,666 L832,629 L832,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M832,629 L896,666 L832,666 L832,629 L832,629 Z" id="Shape" opacity="0.98" sketch:type="MSShapeGroup"></path>
+            <path d="M960,629 L896,666 L960,666 L960,629 L960,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M960,629 L1024,666 L960,666 L960,629 L960,629 Z" id="Shape" opacity="0.9" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,629 L1024,666 L1088,666 L1088,629 L1088,629 Z" id="Shape" opacity="0.94" sketch:type="MSShapeGroup"></path>
+            <path d="M1088,629 L1152,666 L1088,666 L1088,629 L1088,629 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+            <path d="M1216,629 L1152,666 L1216,666 L1216,629 Z" id="Shape" opacity="0.96" sketch:type="MSShapeGroup"></path>
+            <path d="M1280,0 L1280,666 L0,666 L0,0" id="Shape" stroke-width="0.975" opacity="0.7" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
