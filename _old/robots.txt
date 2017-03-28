@@ -1,8 +1,0 @@
-# robotstxt.org/
-
-User-agent: *
-
-Allow: /
-
-#site maps
-Sitemap: http://luizhenriqueleme.github.io/sitemap.xml
